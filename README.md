@@ -1,4 +1,4 @@
-# Sort by Number of Reviews: AmazonSort
+# AmazonSort
 Allows users to sort Amazon search results based on number of reviews. Also allows users to specify a minimum rating and minimum number of reviews.
 
 # Download
